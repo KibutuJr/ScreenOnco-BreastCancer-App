@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "Understanding Breast Cancer",
+    "category": "Facts",
+    "publishedAt": "2025-05-01T10:00:00.000Z",
+    "image": "/images/insight1.jpg",
+    "excerpt": "Breast cancer is the most common cancer among women worldwide...",
+    "content": "Full article text goes here..."
+  },
+  {
+    "id": "2",
+    "title": "5 Tips for Early Detection",
+    "category": "Prevention",
+    "publishedAt": "2025-04-15T14:30:00.000Z",
+    "image": "/images/insight2.jpg",
+    "excerpt": "Early detection dramatically improves outcomes. Here’s how you can self-examine safely...",
+    "content": "Full prevention article text..."
+  },
+  {
+    "id": "3",
+    "title": "The Role of Genetics in Breast Cancer",
+    "category": "Genetics",
+    "publishedAt": "2025-03-20T09:00:00.000Z",
+    "image": "/images/insight3.jpg",
+    "excerpt": "Genetic factors play a significant role in breast cancer risk. Learn more about BRCA1 and BRCA2...",
+    "content": "Full genetics article text..."
+  },
+  {
+    "id": "4",
+    "title": "Nutrition and Breast Cancer Prevention",
+    "category": "Nutrition",
+    "publishedAt": "2025-02-10T11:00:00.000Z",
+    "image": "/images/insight4.jpg",
+    "excerpt": "A healthy diet can help reduce the risk of breast cancer. Here are some dietary tips...",
+    "content": "Full nutrition article text..."
+  }
+]

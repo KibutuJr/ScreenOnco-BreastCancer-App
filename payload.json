@@ -1,0 +1,11 @@
+{
+  "ClumpThickness": 5,
+  "CellSizeUniformity": 1,
+  "CellShapeUniformity": 1,
+  "MarginalAdhesion": 1,
+  "EpithelialCellSize": 2,
+  "BareNuclei": 1,
+  "BlandChromatin": 3,
+  "NormalNucleoli": 1,
+  "Mitoses": 1
+}
