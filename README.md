@@ -1,4 +1,4 @@
-# ScreenOnco Health App
+# ScreenOnco Breast Cancer App
 
 **Live Demo:** [https://screenonco-health-app.netlify.app/](https://screenoncobreastcancerapp.netlify.app/)
 
@@ -151,8 +151,8 @@ By combining these AI tools, we could rapidly prototype and build ScreenOnco end
 
 1. **Clone Repository**
    
-   git clone https://github.com/YourUsername/screenonco-health-app.git
-   cd screenonco-health-app
+   git clone https://github.com/YourUsername/screenonco-breastcancer-app.git
+   cd screenonco-breastcancer-app
 
 
 2. **Environment Variables**
