@@ -6,7 +6,7 @@
 
 ## 📸 Screenshot - Home Page
 
-Here’s a preview of the ScreenOnco Health App homepage:
+Here’s a preview of the ScreenOnco BreastCancer App homepage:
 
 ![ScreenOnco Home Page](https://i.imgur.com/ow7VjKV.jpeg)
 
