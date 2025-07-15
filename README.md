@@ -33,7 +33,7 @@ Here’s a preview of the ScreenOnco BreastCancer App homepage:
 
 ## Project Overview
 
-ScreenOnco Health App is a comprehensive, AI-powered platform designed to improve breast cancer screening, follow­-up, and patient engagement. It bridges gaps in clinical workflows by offering appointment scheduling, automated reminders, personalized risk assessments, educational content, and a 24/7 AI chatbot. Our mission is to ensure no patient is ever left without guidance or support during their breast health journey.
+ScreenOnco BreastCancer App is a comprehensive, AI-powered platform designed to improve breast cancer screening, follow­-up, and patient engagement. It bridges gaps in clinical workflows by offering appointment scheduling, automated reminders, personalized risk assessments, educational content, and a 24/7 AI chatbot. Our mission is to ensure no patient is ever left without guidance or support during their breast health journey.
 
 ---
 
