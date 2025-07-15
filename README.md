@@ -4,18 +4,26 @@
 
 ---
 
+## 📸 Screenshot - Home Page
+
+Here’s a preview of the ScreenOnco Health App homepage:
+
+![ScreenOnco Home Page](https://i.imgur.com/ow7VjKV.jpeg)
+
+---
+
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
-2. [Backstory](#Backstory)
-3. [Problem Statement](#problem-statement)
-4. [Key Features](#key-features)
-5. [Technology Stack](#technology-stack)
-6. [AI Prompt Engineering](#ai-prompt-engineering)
-7. [Setup & Installation](#setup--installation)
-8. [Running Locally](#running-locally)
-9. [Deployment to Netlify](#deployment-to-netlify)
-10. [Homepage Screenshot](#Homepagescreenshot)
+2. [Homepage Screenshot](#Homepagescreenshot)
+3. [Backstory](#Backstory)
+4. [Problem Statement](#problem-statement)
+5. [Key Features](#key-features)
+6. [Technology Stack](#technology-stack)
+7. [AI Prompt Engineering](#ai-prompt-engineering)
+8. [Setup & Installation](#setup--installation)
+9. [Running Locally](#running-locally)
+10. [Deployment to Netlify](#deployment-to-netlify)
 11. [Video Desktop Walkthrough](#Desktopwalkthrough)
 12. [Pitch Deck Summary](#pitch-deck-summary)
 13. [Contributing](#contributing)
@@ -194,12 +202,6 @@ By combining these AI tools, we could rapidly prototype and build ScreenOnco end
 
 ---
 
-
-## 📸 Screenshot - Home Page
-
-Here’s a preview of the ScreenOnco Health App homepage:
-
-![ScreenOnco Home Page](https://i.imgur.com/ow7VjKV.jpeg)
 
 ## 🎥 Demo Walkthrough
 
