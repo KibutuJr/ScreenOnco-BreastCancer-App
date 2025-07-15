@@ -1,6 +1,6 @@
 # ScreenOnco Breast Cancer App
 
-**Live Demo:** [https://screenonco-breastcancer-app.netlify.app/](https://screenoncobreastcancerapp.netlify.app/)
+**Live Demo:** [https://screenonco-breastcancer.netlify.app/](https://screenoncobreastcancerapp.netlify.app/)
 
 ---
 
